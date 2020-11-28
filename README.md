@@ -1,9 +1,9 @@
 # HTML5 e CSS3
-## Curso HTML5 e CSS3 parte 1 - A primeira pagina na web - parte 1
-### Projeto Barbearia-Alura
+##  Projeto Barbearia-Alura
+### Curso HTML5 e CSS3
  Projeto criado a partir do curso da Alura HTML5 e CSS3 parte 1 - A primeira pagina na web 
 
-#### O que foi aplicado na primeira parte do projeto
+#### Parte 1 - A primeira pagina na web
 
 ##### **Capítulo 1**
 - Como funciona o HTML e as tags
