@@ -29,7 +29,7 @@ nav a {
 }
 
 nav a:hover {
-    color:#C78C19;
+    color:#C78C19;margin: 200px;
     text-decoration: underline;
 }
 
@@ -48,7 +48,7 @@ nav a:hover {
     margin: 0 1.5%;
     box-sizing: border-box;
     border: 2px solid #000000;
-    border-radius: 10
+    border-radius: 10px;
 
 }
 
