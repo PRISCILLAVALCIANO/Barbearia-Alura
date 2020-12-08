@@ -44,11 +44,16 @@ nav a:hover {
     margin: 0 auto;
 }
 
+h2 {
+    font-size: 22px;
+    font-weight: bold;
+}
 
 
 .titulo-centralizado {
     text-align: center;
 }
+
 
 
 p {
@@ -69,6 +74,12 @@ em strong {
     display: inline-block;
     
 }
+
+h3 {
+    font-size: 20px;
+    font-weight: bold;
+}
+
 .lista-beneficio {
     width: 20%;
     display: inline-block;
