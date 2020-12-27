@@ -92,12 +92,13 @@ footer {
     text-align: center;
     background: url("bg.jpg");
     padding: 40px 0;
+    margin: 0 auto;
 }
 
 .copyright {
     color: #FFFFFF;
     font-size: 13px;
-    margin-top: 20px;
+    margin-top: 0px;
 }
 
 
@@ -167,12 +168,6 @@ th, td {
     width: 100%;
 }
 
-.titulo-principal {
-    text-align: center;
-    font-size: 2em;
-    margin: 0 0 1em;
-    clear: left;
-}
 
 .principal {
     padding: 3em 0;
@@ -191,6 +186,13 @@ th, td {
 
 .principal em {
     font-style: italic;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
 }
 
 .utensilios {
@@ -235,6 +237,10 @@ th, td {
 
 .itens:first-child {
     font-weight: bold;
+}
+
+.itens::before {
+    content: "🟊";
 }
 
 .imagem-beneficios {
