@@ -102,10 +102,12 @@ footer {
 
 
 /*CSS da página de contato*/
-
+/*
 main {
-    
+    width: 940px;
+    margin: 0 auto;
 }
+*/
 
 form {
     margin: 40px 0;
@@ -256,4 +258,35 @@ th, td {
 .video {
     width: 560px;
     margin: 2em auto;
+}
+
+/*Versão mobile*/
+
+@media screen and (max-width: 480px) {
+    .caixa, .principal, .mapa-conteudo, .conteudo-beneficios, .video {
+        width: auto;
+    }
+
+    h1 {
+        text-align: center;
+    }
+
+    nav {
+        position: static;
+    }
+
+    nav li {
+        display: block;
+        line-height: 1.5;
+    }
+
+    .principal, .mapa, .beneficios {
+        padding: 15px;
+    }
+    .lista-beneficios, .imagem-beneficios {
+        width: 100%;
+        margin: 0 0 20px 0;
+    }
+
+
 }
