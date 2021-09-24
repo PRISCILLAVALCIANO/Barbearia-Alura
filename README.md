@@ -16,4 +16,4 @@ E adaptação da página principal para versão mobile com o conceito de design 
 
 ## Extras
 - Aplicação de design resposivo nas páginas de produtos e contato
-- Boas práticas no projeto, endentação, separação dos arquivos css de cada página
+- Boas práticas no projeto, indentação, separação dos arquivos css de cada página
